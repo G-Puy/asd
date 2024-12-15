@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/python3
 # Configura tu IP y puerto aquí
 IP="192.168.56.102"
 PORT=8080
